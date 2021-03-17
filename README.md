@@ -17,5 +17,5 @@ Swift 5.1+
 
 See other architectures as well
 
-- Flux: https://github.com/mobileANDweb/Flux-SwiftUI
-- MVVM: https://github.com/mobileANDweb/MVVM-SwiftUI
+- Flux: https://github.com/fluffy919/Flux-SwiftUI
+- MVVM: https://github.com/fluffy919/MVVM-SwiftUI
